@@ -1,0 +1,4 @@
+Name,Metadata Complete,Object Type,Identifier,Pipeline,Missing Fields,Page Link
+HW 4 - FedWatch Monitor,False,pipeline,david-domanski/finm32900_hw4_fedwatch,david-domanski/finm32900_hw4_fedwatch,repo_url,../index.html
+30-Day Fed Funds Futures Daily Bars (Databento),False,dataframe,fed_funds_futures,david-domanski/finm32900_hw4_fedwatch,"sources, providers, provider_links",./dataframes/david-domanski--finm32900_hw4_fedwatch/fed_funds_futures.html
+FedWatch: Next FOMC Meeting Probabilities,False,chart,fedwatch_latest_forecast,david-domanski/finm32900_hw4_fedwatch,"observation_period, release_lag, release_timing",./charts/david-domanski--finm32900_hw4_fedwatch.fedwatch_latest_forecast.html
